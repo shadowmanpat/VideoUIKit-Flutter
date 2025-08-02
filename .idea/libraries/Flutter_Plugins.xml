@@ -2,10 +2,10 @@
   <library name="Flutter Plugins" type="FlutterPluginsLibraryType">
     <CLASSES>
       <root url="file://$PROJECT_DIR$" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/agora_rtm-1.6.2" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/permission_handler-11.0.1" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/agora_rtm-1.6.0" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/iris_method_channel-2.0.1" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/agora_rtc_engine-6.3.0" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/iris_method_channel-2.2.4" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/agora_rtc_engine-6.5.2" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
